@@ -1,0 +1,29 @@
+.header{
+    height: 200px;
+    background-image: url('../image/Bleach-Chojiro-Sasakibe-Bankai.jpg'); 
+    /* background-image: url('yamamoto.jpg'); */
+    background-size: cover;
+    background-color: gray;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    color:black;
+    /* background-position: top; */
+}
+
+h3{
+    color: blue;
+    text-decoration: underline wavy red;
+}
+
+span{
+    border:1px solid purple ;
+    height: 200px;
+    width: 100px;
+    margin-top: 50px;
+    display:inline-block;
+}
+.blog{
+    background-color: peru;
+    box-shadow:10px 10px 10px gray ;
+    margin-bottom: 100px;
+}

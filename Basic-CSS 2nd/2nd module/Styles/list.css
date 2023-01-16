@@ -1,0 +1,8 @@
+li{
+    color:rosybrown;
+}
+
+ul li{
+    color: purple;
+    display: inline;
+}
