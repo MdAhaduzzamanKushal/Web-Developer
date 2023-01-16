@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    
+
+}
+
+/* header and navigation */
+.header{
+    color: #FFF8F3
+    ;
+}
+
+
+nav{
+    justify-content: space-between;
+    margin: 50px 200px;
+    display: flex;
+}
+.nav-title{
+    font-weight: 800px;
+    font-size: 45px;
+}
+
+.Doremon{
+    color: #FD6E0A;
+
+}
+nav ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-left: 50px;
+}
